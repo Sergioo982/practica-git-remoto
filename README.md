@@ -1,8 +1,3 @@
-## Comandos practicados
-- git clone
-- git pull
-- git status
-- git add
-- git commit
-- git push
+## Trabajo con IDE
 
+Este repositorio también se ha gestionado desde Visual Studio Code.
